@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=6e3a34&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=5e646e&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
   
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=4e2d2d&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=97949d&abbreviated=true&style=for-the-badge)
 
 <p align="center">
 <div align=center">
@@ -26,13 +26,13 @@
   
     
   
-${\textsf{\color{#54342d}danny   16+}}$
+${\textsf{\color{#950d14}danny   16+}}$
  
-${\textsf{\color{#6e3a34}did + autistic   host}}$
+${\textsf{\color{#383740}did + autistic   host}}$
 
-${\textsf{\color{#4e2d2d}transgay   taken}}$
+${\textsf{\color{#c94c3c}transgay   taken}}$
 
-${\textsf{\color{#3a2d2d}iwec always  --  mentally unstable}}$
+${\textsf{\color{#5e646e}iwec always  --  mentally unstable}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
