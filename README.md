@@ -34,7 +34,7 @@ ${\textsf{\color{#4e2d2d}transgay   taken}}$
 
 ${\textsf{\color{#3a2d2d}iwec always  --  mentally unstable}}$
 
-[新book](https://love-you-todeath.atabook.org/)  [rentry](https://rentry.co/love-you-todeath)
+[新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
  
   
