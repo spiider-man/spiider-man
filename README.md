@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=5e646e&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=EDD5B3&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
   
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=97949d&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=BD9B6E&abbreviated=true&style=for-the-badge)
 
 <p align="center">
 <div align=center">
 
 <p align="center">
-<img align="right" src="https://files.catbox.moe/ecgsm6.webp" alt="image" />
+<img align="right" src="https://files.catbox.moe/qyyo31.png" alt="image" />
 
 
   
@@ -26,13 +26,13 @@
   
     
   
-${\textsf{\color{#950d14}danny   16+}}$
+${\textsf{\color{#886F50}danny   16+}}$
  
-${\textsf{\color{#383740}did + autistic   host}}$
+${\textsf{\color{#64534B}did + autistic   host}}$
 
-${\textsf{\color{#c94c3c}transgay   taken}}$
+${\textsf{\color{#514549}transgay   taken}}$
 
-${\textsf{\color{#5e646e}iwec always  --  mentally unstable}}$
+${\textsf{\color{#312B39}iwec always  --  mentally unstable}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
@@ -40,7 +40,7 @@ ${\textsf{\color{#5e646e}iwec always  --  mentally unstable}}$
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=54252d&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=352D3A&bar_color_cover=false">
   </a>
 </p>
 
