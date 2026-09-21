@@ -36,8 +36,7 @@ ${\textsf{\color{#312B39}iwec always  --  mentally unstable}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
- 
- <p align="center">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=352D3A&bar_color_cover=false">
   </a>
