@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=EDD5B3&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=EDD5B3&center=true&vCenter=true&width=500&lines=with+great+power,;comes+great+responsibility" alt="Typing SVG" /></a>
   
 ![](https://komarev.com/ghpvc/?username=martin-cortis&color=BD9B6E&abbreviated=true&style=for-the-badge)
 
