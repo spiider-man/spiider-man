@@ -6,25 +6,35 @@
 
 <p align="center">
 <div align=center">
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-
-  
-    
 <p align="center">
-<img align="right" src="https://files.catbox.moe/qyyo31.png" alt="image" />
+<img align="right" src="https://files.catbox.moe/qyyo31.png" alt="image" width="450" />
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+${\textsf{\color{#886F50}    danny   16+}}$
+ 
+${\textsf{\color{#64534B}    did + autistic   host}}$
+
+${\textsf{\color{#514549}    transgay   taken}}$
+
+${\textsf{\color{#312B39}    iwec always  --  mentally unstable}}$
+
+[新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
+
 ㅤ<table border="20" align="right">
     <tr align="center"></tr>
       <th>
@@ -39,13 +49,4 @@
       </th>
     </table>
     
-${\textsf{\color{#886F50}    danny   16+}}$
- 
-${\textsf{\color{#64534B}    did + autistic   host}}$
-
-${\textsf{\color{#514549}    transgay   taken}}$
-
-${\textsf{\color{#312B39}    iwec always  --  mentally unstable}}$
-
-[新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
