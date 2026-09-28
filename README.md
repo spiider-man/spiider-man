@@ -9,6 +9,20 @@
 
 <p align="center">
 <img align="right" src="https://files.catbox.moe/qyyo31.png" alt="image" />
+ㅤ<table border="20" align="right">
+    <tr align="center"></tr>
+      <th>
+        ㅤ<br>
+<p align="right">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=352D3A&bar_color_cover=false">
+  </a>
+</p>
+        </p>
+        ㅤ<br>
+      </th>
+    </table>
+
 
 
   
@@ -26,26 +40,13 @@
   
     
   
-${\textsf{\color{#886F50}danny   16+}}$
+${\textsf{\color{#886F50}    danny   16+}}$
  
-${\textsf{\color{#64534B}did + autistic   host}}$
+${\textsf{\color{#64534B}    did + autistic   host}}$
 
-${\textsf{\color{#514549}transgay   taken}}$
+${\textsf{\color{#514549}    transgay   taken}}$
 
-${\textsf{\color{#312B39}iwec always  --  mentally unstable}}$
+${\textsf{\color{#312B39}    iwec always  --  mentally unstable}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
-ㅤ<table border="20" align="left">
-    <tr align="center"></tr>
-      <th>
-        ㅤ<br>
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=352D3A&bar_color_cover=false">
-  </a>
-</p>
-        </p>
-        ㅤ<br>
-      </th>
-    </table>
 
