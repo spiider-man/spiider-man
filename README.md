@@ -7,7 +7,7 @@
 <p align="center">
 <div align=center">
 <p align="center">
-<img align="right" src="https://files.catbox.moe/nvgtqf.gif" alt="image" width="250" />
+<img align="right" src="https://files.catbox.moe/nvgtqf.gif" alt="image" width="420" />
 
 
 
