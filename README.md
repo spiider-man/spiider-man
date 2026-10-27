@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=f8ecac&center=true&vCenter=true&width=500&lines=with+great+power,;comes+great+responsibility" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=890202&center=true&vCenter=true&width=500&lines=with+great+power,;comes+great+responsibility" alt="Typing SVG" /></a>
   
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=1c0a0a&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=890202&abbreviated=true&style=for-the-badge)
 
 <p align="center">
 <div align=center">
 <p align="center">
-<img align="right" src="https://files.catbox.moe/qyyo31.png" alt="image" width="450" />
+<img align="right" src="https://files.catbox.moe/nvgtqf.gif" alt="image" width="450" />
 
 
 
@@ -25,13 +25,13 @@
 
   
   
-${\textsf{\color{#1c0a0a}    danny   16+}}$
+${\textsf{\color{#7b0202}    danny   16+}}$
  
-${\textsf{\color{#550d08}    did + autistic   host}}$
+${\textsf{\color{#890202}    did + autistic   host}}$
 
-${\textsf{\color{#7b1103}    transgay   taken}}$
+${\textsf{\color{#9f0202}    transgay   taken}}$
 
-${\textsf{\color{#b81202}    iwec always  --  mentally unstable}}$
+${\textsf{\color{#bd0000}    iwec always  --  mentally unstable}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
