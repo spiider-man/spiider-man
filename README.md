@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=890202&center=true&vCenter=true&width=500&lines=with+great+power,;comes+great+responsibility" alt="Typing SVG" /></a>
-  
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=890202&abbreviated=true&style=for-the-badge)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=A15F64&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
+
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=A86567&abbreviated=true&style=for-the-badge)
 
 <p align="center">
 <div align=center">
