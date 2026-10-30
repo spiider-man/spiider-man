@@ -25,13 +25,18 @@
 
   
   
-${\textsf{\color{#9A5662}    info}}$
+${\textsf{\color{#9A5662}    Hiya, my name's Danny and I'm 17 years old.}}$
 
-${\textsf{\color{#7B4F5D}    info}}$
+${\textsf{\color{#9A5662}    I prefer if people under 15 iwc or just don't int}}$
 
-${\textsf{\color{#684A56}    info}}$
+${\textsf{\color{#7B4F5D}    unless we're close friends. I'm filipino-american,}}$
 
-${\textsf{\color{#5C4352}    info}}$
+${\textsf{\color{#7B4F5D}    and i am currently teaching myself hangul + tagalog}}$
+
+${\textsf{\color{#684A56}    Transgay and taken. I prefer he/they pronouns.}}$
+
+${\textsf{\color{#5C4352}    I'm the host of a system, my personality differs}}$
+${\textsf{\color{#5C4352}    based off who is fronting. please iwec always<3}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
