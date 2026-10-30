@@ -4,17 +4,39 @@
 
 ![](https://komarev.com/ghpvc/?username=martin-cortis&color=AB6664&abbreviated=true&style=for-the-badge)
 
+
 <p align="center">
 <div align=center">
 <p align="center">
 <img align="right" src="https://files.catbox.moe/nvgtqf.gif" alt="image" width="420" />
 
 
+ㅤ<table border="20" align="right">
+    <tr align="center"></tr>
+      <th>
+        <br>
+            <p align="right">
+              <a href="https://github.com/kittinan/spotify-github-profile">
+           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=784E5C&bar_color_cover=false">
+                </a>
+              </p>
+        </p>
+        ㅤ<br>
+      </th>
+    </table>
+        ㅤ<br>
+      </th>
+    </table>
+
+
 
 
   
   
   
+  
+  
+    
   
   
   
@@ -43,15 +65,16 @@ ${\textsf{\color{#5C4352}    based off who is fronting. please iwec alwa
 
 ${\textsf{\color{#513B4D}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
+
+
 ㅤ<table border="20" align="right">
     <tr align="center"></tr>
       <th>
-        ㅤ<br>
-<p align="right">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=784E5C&bar_color_cover=false">
-  </a>
-</p>
+        <br>
+            <p align="center">
+                ${\textsf{\color{#A08D9A}    Sweethearts<3}}$
+            </p>${\textsf{\color{#A08D9A}    Mahal, Lisid, Willy, Raine, Tiger, Illumina, Sho}}$</p>
+              </p>
         </p>
         ㅤ<br>
       </th>
@@ -59,7 +82,3 @@ ${\textsf{\color{#513B4D}    Feel free to sign my ata ! My straw needs t
         ㅤ<br>
       </th>
     </table>
-
-test
-    
-
