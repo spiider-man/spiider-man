@@ -73,7 +73,7 @@ ${\textsf{\color{#513B4D}    Feel free to sign my ata ! My straw needs t
         <br>
             <p align="center">
                 ${\textsf{\color{#A08D9A}    Sweethearts<3}}$
-            </p>${\textsf{\color{#A08D9A}    Mahal, Lisid, Willy, Raine, Tiger, Illumina, m^5, Hetmon, Sho}}$</p>
+            </p>Mahal, Lisid, [Willy,](https://github.com/Azoaj) [Raine,](https://github.com/jay-gwalker) [Tiger,](https://github.com/heavenslapdog) [Illumina,](https://github.com/infinitesourceofrisks) [Hetmon,](https://github.com/Hetm0ngi) [Sho](https://github.com/82-major)</p>
               </p>
         </p>
         ㅤ<br>
