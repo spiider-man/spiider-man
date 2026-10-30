@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=A15F64&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=AB6664&center=true&vCenter=true&width=500&lines=I+never+found+us+in+romance,;But+I+can't+deny;There's+you+and+me+in+arguments." alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=martin-cortis&color=A86567&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=martin-cortis&color=AB6664&abbreviated=true&style=for-the-badge)
 
 <p align="center">
 <div align=center">
@@ -38,7 +38,9 @@ ${\textsf{\color{#684A56}    Transgay and taken. I prefer he/they pronou
 ${\textsf{\color{#5C4352}    I'm the host of a system, my personality differs}}$
 ${\textsf{\color{#5C4352}    based off who is fronting. please iwec always<3}}$
 
-[新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
+[新book](https://love-you-todeath.atabook.org/)  straw coming soon<3
+
+${\textsf{\color{#513B4D}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
 ㅤ<table border="20" align="right">
     <tr align="center"></tr>
