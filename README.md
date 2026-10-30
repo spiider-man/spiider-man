@@ -10,7 +10,22 @@
 <p align="center">
 <img align="right" src="https://files.catbox.moe/nvgtqf.gif" alt="image" width="420" />
 
-
+ㅤ<table border="20" align="right">
+    <tr align="center"></tr>
+      <th>
+        <br>
+            <p align="right">
+              <a href="https://github.com/kittinan/spotify-github-profile">
+           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=784E5C&bar_color_cover=false">
+                </a>
+              </p>
+        </p>
+        ㅤ<br>
+      </th>
+    </table>
+        ㅤ<br>
+      </th>
+    </table>
 
 
 
@@ -48,43 +63,6 @@ ${\textsf{\color{#5C4352}    based off who is fronting. please iwec alwa
 
 ${\textsf{\color{#513B4D}    Feel free to sign my ata ! My straw needs to be updated..}}$
 
-ㅤ<table border="20" align="right">
-    <tr align="center"></tr>
-      <th>
-        <br>
-            <p align="right">
-              <a href="https://github.com/kittinan/spotify-github-profile">
-           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=352D3A&interchange=true&profanity=false&hide_remaster=false&bar_color=784E5C&bar_color_cover=false">
-                </a>
-              </p>
-        </p>
-        ㅤ<br>
-      </th>
-    </table>
-        ㅤ<br>
-      </th>
-    </table>
-
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
 
 
 ㅤ<table border="20" align="right">
