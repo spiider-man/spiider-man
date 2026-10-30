@@ -25,13 +25,13 @@
 
   
   
-${\textsf{\color{#9A5662}    danny   16+}}$
- 
-${\textsf{\color{#7B4F5D}    did + autistic   host}}$
+${\textsf{\color{#9A5662}    info}}$
 
-${\textsf{\color{#754E59}    transgay   taken}}$
+${\textsf{\color{#7B4F5D}    info}}$
 
-${\textsf{\color{#784E5C}    iwec always  --  mentally unstable}}$
+${\textsf{\color{#684A56}    info}}$
+
+${\textsf{\color{#5C4352}    info}}$
 
 [新book](https://love-you-todeath.atabook.org/)  [straw](https://spiidermann.straw.page)
 
@@ -45,6 +45,9 @@ ${\textsf{\color{#784E5C}    iwec always  --  mentally unstabl
   </a>
 </p>
         </p>
+        ㅤ<br>
+      </th>
+    </table>
         ㅤ<br>
       </th>
     </table>
